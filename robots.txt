@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohqueopha.sealthedealmacneil.com/sitemap.xml
